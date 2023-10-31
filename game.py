@@ -107,4 +107,5 @@ while True:
     print('-----------------------------------')
     input('Нажмите enter, чтобы начать заного')
 
+
     letter_up = [(lambda c: chr(c))(i) for i in range(1040, 1072)]
