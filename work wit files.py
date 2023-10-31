@@ -24,4 +24,6 @@ with open('слова.txt', encoding='utf=8') as file, open('words_for_game', 'w
         if len(i.strip()) == 5:
                 f.write(i.upper())
 
+print()
+
 
